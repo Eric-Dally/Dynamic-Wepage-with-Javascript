@@ -6,7 +6,7 @@ The purpose of this project was to visualize UFO sightings by customizing a webp
 
 ## Results:
 
-In this challenge, four new filters were created to allow the user to search with different criteria. With the new set up, the user can search for UFO sighting by the city, state, country, or shape of the suspected UFO. For the filter to work, atleast one input must be entered. However, the user can enter all five inputs for more specific results. 
+In this challenge, four new filters were created to allow the user to search with different criteria. With the new set up, the user can search for UFO sightings by the city, state, country, or shape of the suspected UFO. For the filter to work, atleast one input must be entered. However, the user can enter all five inputs for more specific results. 
 
 <img width="981" alt="Screen Shot 2021-07-08 at 1 57 00 PM" src="https://user-images.githubusercontent.com/82424250/124977366-02fcc180-dff6-11eb-9e5f-e40d680d60b2.png">
 
