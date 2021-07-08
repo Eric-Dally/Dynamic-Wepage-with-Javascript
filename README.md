@@ -16,9 +16,9 @@ In this challenge, four new filters were created to allow the user to search wit
 
 ### Drawbacks:
 
-***One drawback is that the user does not have the ability to enter multiple inputes for one search parameter. For instance, one can only enter one date instead of two. 
+* One drawback is that the user does not have the ability to enter multiple inputes for one search parameter. For instance, one can only enter one date instead of two. 
 
-***Another drawback is that the user can not organize the data in numerical/alphebetical order.
+* Another drawback is that the user can not organize the data in numerical/alphebetical order.
 
 ### Additional Recommendations:
 
